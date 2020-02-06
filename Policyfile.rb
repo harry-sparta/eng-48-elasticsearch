@@ -4,13 +4,13 @@
 # https://docs.chef.io/policyfile.html
 
 # A name that describes what the system you're building with Chef does.
-name 'elk_stack'
+name 'elasticsearch_eng48'
 
 # Where to find external cookbooks:
 default_source :supermarket
 
 # run_list: chef-client will run these recipes in the order specified.
-run_list 'elk_stack::default'
+run_list 'elasticsearch_eng48::default'
 
 # Specify a custom source for a single cookbook:
-cookbook 'elk_stack', path: '.'
+cookbook 'elasticsearch_eng48', path: '.'

@@ -1,6 +1,6 @@
-# elk_stack CHANGELOG
+# elasticsearch CHANGELOG
 
-This file is used to list changes made in each version of the elk_stack cookbook.
+This file is used to list changes made in each version of the elasticsearch cookbook.
 
 # 0.1.0
 
@@ -8,4 +8,3 @@ Initial release.
 
 - change 0
 - change 1
-
